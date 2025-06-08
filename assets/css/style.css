@@ -1,0 +1,57 @@
+/* Contact Form Styles */
+.php-email-form .loading {
+	display: none;
+	background: rgba(255, 255, 255, 0.8);
+	text-align: center;
+	padding: 15px;
+	border-radius: 4px;
+	margin-bottom: 20px;
+}
+
+.php-email-form .error-message {
+	display: none;
+	color: #fff;
+	background: #ed3c0d;
+	text-align: center;
+	padding: 15px;
+	border-radius: 4px;
+	margin-bottom: 20px;
+}
+
+.php-email-form .sent-message {
+	display: none;
+	color: #fff;
+	background: #18d26e;
+	text-align: center;
+	padding: 15px;
+	border-radius: 4px;
+	margin-bottom: 20px;
+}
+
+.php-email-form button[type="submit"] {
+	background: var(--primary-color);
+	border: 0;
+	padding: 10px 30px;
+	color: #fff;
+	transition: 0.4s;
+	border-radius: 4px;
+}
+
+.php-email-form button[type="submit"]:hover {
+	background: var(--primary-color-dark);
+}
+
+.php-email-form .form-control {
+	border-radius: 4px;
+	box-shadow: none;
+	font-size: 14px;
+}
+
+.php-email-form .form-control:focus {
+	border-color: var(--primary-color);
+}
+
+.php-email-form input,
+.php-email-form textarea {
+	padding: 10px 15px;
+}
