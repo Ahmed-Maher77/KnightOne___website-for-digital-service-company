@@ -11,19 +11,21 @@ KnightOne is a modern and responsive business website template designed for comp
 
 ## 💻 Used Technologies
 
-- **Frontend Framework**: Bootstrap 5, HTML5, CSS3
+- **Frontend Framework**: Bootstrap 5, HTML5, CSS3, SCSS
 - **JavaScript Libraries**:
   - Bootstrap Bundle
+  - jQuery
   - AOS (Animate On Scroll)
   - GLightbox
   - PureCounter
   - ImagesLoaded
   - Isotope Layout
   - Swiper Bundle
-- **Custom Code**: `main.css`, `main.js`
+- **Custom Code**: `main.css`, `main.scss`, `main.js`
 - **Icons**: Bootstrap Icons
 - **Fonts**: Google Fonts (Roboto, Poppins, Raleway)
 - **Backend**: PHP (for form handling)
+
 
 ---
 
