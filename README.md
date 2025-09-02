@@ -54,7 +54,7 @@ KnightOne is a modern and responsive business website template designed for comp
 ## 👀 Website Preview
 
 <a href="https://ahmed-maher77.github.io/KnightOne___website-for-digital-service-company/" title="demo">
-  <img src="uploaded-img-on-github-readme" alt="website preview" width="400">
+  <img src="https://github.com/user-attachments/assets/e57e1b5d-8196-48f7-8e6f-ed8b64ab5f97" alt="website preview - UI mockup" width="400">
 </a>
 
 ---
@@ -63,11 +63,11 @@ KnightOne is a modern and responsive business website template designed for comp
 
 1. Clone the repository:
   ```bash
-  git clone https://github.com/yourusername/knightone.git
+  git clone https://github.com/Ahmed-Maher77/KnightOne___website-for-digital-service-company.git
   ```
 2. Navigate into the project directory:
    ```
-   cd knightone
+   cd KnightOne___website-for-digital-service-company
    ```
 3. Open ```index.html``` in your browser or run a live server:
   ```
